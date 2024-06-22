@@ -1,1 +1,4 @@
-本项目共有两位开发者jakewufanAND
+本项目共有两位开发者jakewufanANDhuangxin727
+本项目只用于交流学习。
+详细安装和运行教程在REANME文件夹中。
+祝大家生活愉快
